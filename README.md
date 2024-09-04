@@ -22,7 +22,8 @@
 <br>
 【模板下载】实现提供Excel批量导入查询入口的模板，参照Excel模板案例填写用户信息（包括：姓名、身份证号、手机号码等信息）后可将Excel通过【批量导入查询】导入到系统中进行查询。
 <br>
-【导出】实现将查询结果数据导出为excel表<br>
+【导出】实现将查询结果数据导出为excel表
+<br>
 ![process](https://raw.githubusercontent.com/volchamp/IntelligentQuery/master/screenshot/find.png)
 * 历史记录查询<br>
 ![process](https://raw.githubusercontent.com/volchamp/IntelligentQuery/master/screenshot/his.png)
